@@ -125,8 +125,8 @@ An AI-powered platform designed for long-form story generation and narrative con
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreejagandham18&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreejagandham18&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sreejagandham18&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreejagandham18&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
