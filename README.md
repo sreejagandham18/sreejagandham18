@@ -122,11 +122,6 @@ An AI-powered platform designed for long-form story generation and narrative con
 
 ---
 
-## 📊 GitHub Stats
-
-![Sreeja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreejagandham18&show_icons=true)
-
----
 
 ## 🤝 Let's Connect
 
